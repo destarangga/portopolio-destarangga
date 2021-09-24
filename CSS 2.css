@@ -1,0 +1,213 @@
+@import url('https://fonts.googleapis.com/css2?family=Stick+No+Bills:wght@200&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@500&display=swap');
+ {  
+     font-family:"Stick No Bills",cursive;
+ }
+ {  
+     font-family:"oswald",cursive;
+ }
+
+/*  */
+.A {
+    font-family: inherit;
+    font-size: 30px;
+    font-weight: bold;
+    color: navy;
+    font-family:"Stick No Bills",cursive;
+    
+}
+.B {
+    font-family: inherit;
+    font-size: 30px;
+    background-color: var(--kalimat6);
+    color: yellow;
+    border-radius: var(--radius);
+}
+
+
+
+
+.E {
+    
+    font-family: inherit;
+     font-size: 30px;
+    
+}
+.F {
+    font-family: inherit;
+    font-size: 30px;
+}
+.G {
+    font-family: inherit;
+    font-size: 30px;
+}
+.H {
+    font-family: inherit;
+    font-size: 30px;
+    font-weight: bold;
+    color:navy;
+    font-family:"Stick No Bills",cursive;
+}
+.I {
+    font-weight: bold;
+    font-size: 30px;
+    color:navy;
+    font-family:"Stick No Bills",cursive;
+    
+    
+}
+:root {
+    /* --kalimat1: rgb(0, 255, 221);
+    --kalimat2: rgb(128, 68, 0); */
+    --kalimat3: grey;
+    --kalimat4: rgb(36, 3, 26);
+    --kalimat5: rgb(37, 0, 41);
+    --lebarkalimat: 300px;
+    --kalimat6: rgb(0, 26, 255);
+    --radius: 10px;
+}
+.J {
+    font-size: 30px;
+    color: rgb(34, 167, 167);
+    background-color: var(--kalimat5);
+    width: var(--lebarkalimat);
+    border-radius: var(--radius);
+}
+.K {
+    font-size: 30px;
+    color: rgb(0, 128, 17);
+    background-color: var(--kalimat4);
+    width: var(--lebarkalimat);
+    border-radius: var(--radius);
+}
+.L {
+    font-size: 30px;
+    color: rgb(75, 12, 223);
+    background-color: var(--kalimat3);
+    width: var(--lebarkalimat);
+    border-radius: var(--radius);
+
+}
+.M {
+    font-size: 30px;
+    color: rgb(0, 128, 17);
+    background-color: var(--kalimat4);
+    width: var(--lebarkalimat);
+    border-radius: var(--radius);
+}
+.N {
+    font-size: 30px;
+    color: rgb(34, 167, 167);
+    background-color: var(--kalimat5);
+    width: var(--lebarkalimat);
+    border-radius: var(--radius);
+}
+
+
+
+.isi {
+    margin: 5px;
+    border: 1px solid #ccc;
+    float: left;
+    width: 48%;
+    height: 820px;
+    padding: 5px;
+}
+
+.isi2 {
+    margin: 5px;
+    border: 1px solid #ccc;
+    float: left;
+    width: 98.5%;
+    padding: 5px;
+}
+
+.gallery {
+    margin: 5px;
+    /* border: 1px solid #ccc; */
+    float: left;
+    width: 48%;
+    height: 830px;
+    max-width: 50%;
+    max-height: 850px;
+}
+
+/* .gallery:hover {
+    border: 1px solid #777;
+} */
+
+.gallery img {
+    width: 100%;
+    height: auto;
+}
+
+.desc {
+    padding-bottom: 20px;
+    text-align: center;
+    font-family:"oswald",cursive;
+    padding-bottom: 300px;
+}
+
+.tabel-pendidikan{
+    border:1px solid #000;
+    width:100%;
+    border-collapse: collapse;
+}
+
+.backgorund-th{
+    background-color:#777;
+    font-size: 30px;
+}
+.tabel1{
+    font-size: 30px;
+}
+.tabel2{
+    font-size: 30px;
+}
+.tabel3{
+    font-size: 30px;
+}
+.saya{
+    font-weight: inherit;
+    font-size: 30px;
+   
+}
+.bagian2{
+    font-family: inherit;
+    font-size: 30px;
+    font-weight: bold;
+    color: navy;
+    font-family:"Stick No Bills",cursive;
+    line-height: 20px;
+    
+}
+.bagiantabel{
+    border:1px solid #000;
+    width:100%;
+    border-collapse: collapse;
+}
+.bagiantabel1{
+    background-color:#777;
+    font-size: 30px;
+}
+
+.bagiantabel2{
+    font-size: 30px;
+}
+.bagiantabel3{
+    font-size: 30px;
+}
+.bagianakhir{
+    font-size: 30px;
+}
+.jpg body {
+    background-image: url("TUGAS2.jpg");
+  }
+  
+
+
+
+
+  
+    
